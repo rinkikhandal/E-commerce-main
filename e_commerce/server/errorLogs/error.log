@@ -1,0 +1,143 @@
+2023-10-04 17:15:13 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:15:13 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:16:11 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:16:11 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:17:03 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:17:03 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:17:26 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:17:26 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:20:33 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:20:33 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:25:05 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:28:39 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:31:01 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:32:14 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:32:59 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:33:33 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 17:43:07 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:02:26 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:02:38 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:05:24 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:06:06 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:11:34 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:13:07 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:13:42 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:13:47 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:15:25 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:17:59 [31merror[39m:[31mStatusCodes is not defined[39m
+2023-10-04 19:20:31 [31merror[39m:[31mCannot read properties of undefined (reading 'split')[39m
+2023-10-04 19:23:43 [31merror[39m:[31mCannot read properties of undefined (reading 'split')[39m
+2023-10-04 19:29:14 [31merror[39m:[31mplease provide all required fields[39m
+2023-10-04 19:29:37 [31merror[39m:[31mplease provide all required fields[39m
+2023-10-04 19:31:13 [31merror[39m:[31mPassword should be at least 8 characters long[39m
+2023-10-04 19:31:52 [31merror[39m:[31mPassword should contain at least one letter[39m
+2023-10-04 19:32:24 [31merror[39m:[31m[object Object][39m
+2023-10-04 19:32:45 [31merror[39m:[31mplease provide all required fields[39m
+2023-10-04 19:33:23 [31merror[39m:[31mvakidation is not defined[39m
+2023-10-04 19:33:38 [31merror[39m:[31mPassword should contain at least one letter[39m
+2023-10-04 19:34:14 [31merror[39m:[31mPassword should contain at least one letter[39m
+2023-10-04 19:34:36 [31merror[39m:[31mvalidation.errors[0].json is not a function[39m
+2023-10-04 19:35:15 [31merror[39m:[31mPassword should contain at least one letter[39m
+2023-10-04 19:35:37 [31merror[39m:[31mObject.KeyValues is not a function[39m
+2023-10-04 19:36:22 [31merror[39m:[31mObject.Key is not a function[39m
+2023-10-04 19:36:41 [31merror[39m:[31mObject.Keys is not a function[39m
+2023-10-04 19:37:08 [31merror[39m:[31mPassword should contain at least one letter[39m
+2023-10-04 19:38:53 [31merror[39m:[31mplease provide a valid email[39m
+2023-10-04 19:41:06 [31merror[39m:[31mplease provide a valid email[39m
+2023-10-04 19:43:36 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:44:33 [31merror[39m:[31m"please provide a valid email, Password should contain at least one letter"[39m
+2023-10-04 19:47:54 [31merror[39m:[31mchalk is not defined[39m
+2023-10-04 19:48:16 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:48:46 [31merror[39m:[31m[31mplease provide a valid email, Password should contain at least one letter[31m[39m
+2023-10-04 19:51:17 [31merror[39m:[31mchalk is not defined[39m
+2023-10-04 19:51:40 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:53:13 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:54:59 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:55:04 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:55:29 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:55:50 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:57:02 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 19:58:08 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 20:03:09 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 20:03:41 [31merror[39m:[31mObject.value is not a function[39m
+2023-10-04 20:04:16 [31merror[39m:[31mp,l,e,a,s,e, ,p,r,o,v,i,d,e, ,a, ,v,a,l,i,d, ,e,m,a,i,l, P,a,s,s,w,o,r,d, ,s,h,o,u,l,d, ,c,o,n,t,a,i,n, ,a,t, ,l,e,a,s,t, ,o,n,e, ,l,e,t,t,e,r[39m
+2023-10-04 20:05:12 [31merror[39m:[31mplease provide a valid email, Password should contain at least one letter[39m
+2023-10-04 20:06:28 [31merror[39m:[31mUnexpected token p in JSON at position 0[39m
+2023-10-04 20:07:48 [31merror[39m:[31mUnexpected token o in JSON at position 1[39m
+2023-10-04 20:08:41 [31merror[39m:[31mUnexpected token , in JSON at position 0[39m
+2023-10-04 20:08:56 [31merror[39m:[31mUnexpected token p in JSON at position 0[39m
+2023-10-04 20:09:24 [31merror[39m:[31m"please provide a valid email,Password should contain at least one letter"[39m
+2023-10-04 20:10:29 [31merror[39m:[31mplease provide a valid email,Password should contain at least one letter[39m
+2023-10-04 20:11:30 [31merror[39m:[31me provide a valid email,Password should contain at least one [39m
+2023-10-04 20:17:46 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:18:49 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:20:28 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:21:34 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:22:58 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:24:49 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:26:43 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:27:24 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:28:21 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:29:07 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:30:27 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:31:22 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 20:35:52 [31merror[39m:[31mInvalid Credentials[39m
+2023-10-04 20:36:59 [31merror[39m:[31mInvalid Credentials[39m
+2023-10-04 20:37:36 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-04 22:43:32 [31merror[39m:[31mIllegal arguments: string, undefined[39m
+2023-10-05 16:47:21 [31merror[39m:[31mzip is required,street is required,city is required,city is required,country is required,phone is required[39m
+2023-10-05 16:47:57 [31merror[39m:[31mzip is required,street is required,city is required,city is required,country is required,phone is required[39m
+2023-10-05 16:52:02 [31merror[39m:[31mzip is required,street is required,city is required,city is required,country is required,phone is required[39m
+2023-10-05 16:52:54 [31merror[39m:[31mzip is required,street is required,city is required,city is required,country is required,phone is required[39m
+2023-10-05 16:56:22 [31merror[39m:[31mstreet is required,Path `phone` is invalid (9356112346).[39m
+2023-10-05 16:59:50 [31merror[39m:[31mUser not found[39m
+2023-10-05 21:32:44 [31merror[39m:[31mUser not found[39m
+2023-10-05 21:44:13 [31merror[39m:[31mtoken required or incorrect[39m
+2023-10-05 21:44:36 [31merror[39m:[31mtokenString.startswith is not a function[39m
+2023-10-05 21:45:00 [31merror[39m:[31mCannot destructure property 'userId' of 'req.userId' as it is undefined.[39m
+2023-10-05 21:45:13 [31merror[39m:[31mFound non-callable @@iterator[39m
+2023-10-05 21:45:41 [31merror[39m:[31mFound non-callable @@iterator[39m
+2023-10-05 21:46:30 [31merror[39m:[31mFound non-callable @@iterator[39m
+2023-10-05 21:46:59 [31merror[39m:[31mPath `category` is required.[39m
+2023-10-05 21:50:11 [31merror[39m:[31mCast to ObjectId failed for value "{ mainCategory: [ 'Home & Kitchen' ] }" (type Object) at path "category" because of "BSONError"[39m
+2023-10-05 22:17:40 [31merror[39m:[31mproduct not found[39m
+2023-10-05 22:25:52 [31merror[39m:[31mproduct not found[39m
+2023-10-05 22:26:07 [31merror[39m:[31mproduct not found[39m
+2023-10-04 22:15:37 [31merror[39m:[31mtoken required or incorrect[39m
+2023-10-04 23:46:02 [31merror[39m:[31mNo File Uploaded[39m
+2023-10-04 23:48:12 [31merror[39m:[31mCannot read properties of undefined (reading 'startsWith')[39m
+2023-10-04 23:49:38 [31merror[39m:[31mPlease upload Image smaller than 1MB[39m
+2023-10-05 00:09:06 [31merror[39m:[31mNo File Uploaded[39m
+2023-10-05 00:10:33 [31merror[39m:[31mCannot read properties of undefined (reading 'startsWith')[39m
+2023-10-05 00:11:05 [31merror[39m:[31mPath `countInStock` is required.,Path `price` is required.,Path `description` is required.,Path `productName` is required.[39m
+2023-10-05 00:12:18 [31merror[39m:[31mPath `countInStock` is required.,Path `price` is required.,Path `description` is required.,Path `productName` is required.[39m
+2023-10-05 00:19:56 [31merror[39m:[31mPath `countInStock` is required.,Path `price` is required.,Path `description` is required.,Path `productName` is required.[39m
+2023-10-05 00:49:15 [31merror[39m:[31mPlease upload Image smaller than 1MB[39m
+2023-10-06 12:11:42 [31merror[39m:[31mverificationToken is not defined[39m
+2023-10-06 12:18:16 [31merror[39m:[31mPlease verify your email[39m
+2023-10-06 12:19:37 [31merror[39m:[31mPlease verify your email[39m
+2023-10-06 12:24:39 [31merror[39m:[31mPlease verify your email[39m
+2023-10-06 12:26:27 [31merror[39m:[31mPlease verify your email[39m
+2023-10-06 12:27:44 error:Please verify your email
+2023-10-06 12:31:57 error:Please verify your email
+2023-10-06 13:00:21 error:Please verify your email
+2023-10-06 13:20:38 error:req is not defined
+2023-10-06 13:29:20 error:Validator failed for path `email` with value `rinkiKhandal2000@gmail.com`
+2023-10-06 13:30:50 error:Validator failed for path `email` with value `rinkiKhandal2000@gmail.com`
+2023-10-06 13:33:06 error:Invalid Credentials
+2023-10-06 13:33:53 error:Invalid Credentials
+2023-10-06 13:35:52 error:Invalid Credentials
+2023-10-06 13:36:46 error:Invalid Credentials
+2023-10-06 13:38:14 error:Invalid Credentials
+2023-10-06 13:41:28 error:Unexpected end of JSON input
+2023-10-06 13:41:52 error:Invalid Credentials
+2023-10-06 13:43:00 error:Invalid Credentials
+2023-10-06 13:49:04 error:Invalid Credentials
+2023-10-06 13:50:07 error:Invalid Credentials
+2023-10-06 13:56:27 error:Invalid Credentials
+2023-10-06 15:19:35 error:Invalid Credentials
+2023-10-06 15:23:30 error:Invalid Credentials
+2023-10-06 15:25:54 error:Invalid Credentials
+2023-10-06 15:57:49 error:Invalid Credentials
+2023-10-06 16:01:32 error:Invalid Credentials
+2023-10-06 16:04:02 error:this.constructor.findOne is not a function
